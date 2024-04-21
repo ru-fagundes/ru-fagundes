@@ -10,7 +10,10 @@
 
 ## Minhas Tecnologias
 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="100px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/R-Dark.svg" width="50px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="50px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50px">
           
           
           
