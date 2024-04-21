@@ -10,7 +10,7 @@
 
 ## Minhas Tecnologias
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg)
+![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
           
           
           
