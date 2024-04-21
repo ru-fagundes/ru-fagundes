@@ -10,7 +10,7 @@
 
 ## Minhas Tecnologias
 
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg)
           
           
           
