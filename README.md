@@ -25,7 +25,7 @@ ___negrito e italico___
 
 
 
-[Texto_da_Imagem] (https://img.freepik.com/fotos-gratis/um-leao-com-uma-juba-de-arco-iris-e-olhos-azuis_1340-39421.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1713571200&semt=sph)
+[Texto_da_Imagem](https://img.freepik.com/fotos-gratis/um-leao-com-uma-juba-de-arco-iris-e-olhos-azuis_1340-39421.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1713571200&semt=sph)
 
 <!--
 **ru-fagundes/ru-fagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
