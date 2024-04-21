@@ -1,33 +1,17 @@
-### Hi there 👋
+## Sejam bem vindos ao meu mundo!👋
 
-<!-- Cabeçalhos -->
+![Gif_Gatinha](https://media.tenor.com/T8KOdP8iV7oAAAAM/typing-computer.gif)
+---------------------
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+💁 Olá, me chamo Rubia </br>
+🎓 Sou graduanda em Ciência De Dados </br>
+📫 [Acesse o meu Linkedin](www.linkedin.com/in/rubia-fagundes) </br>
+------------
 
-*italico* ou _italico_
+## Minhas Tecnologias
 
-**negrito** ou __negrito__
-
-___negrito e italico___
-
-- Lista 1
-- Lista 2
-  - Sublista
-
-1. Lista 1
-2. Lista 2
-   1. Sublista
-
-
-
-[Texto_da_Imagem](https://img.freepik.com/fotos-gratis/um-leao-com-uma-juba-de-arco-iris-e-olhos-azuis_1340-39421.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1713571200&semt=sph)
-
-![Texto_da_Imagem](https://img.freepik.com/fotos-gratis/um-leao-com-uma-juba-de-arco-iris-e-olhos-azuis_1340-39421.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1713571200&semt=sph)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px" >
+          
 
 <!--
 **ru-fagundes/ru-fagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
