@@ -16,7 +16,6 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50px">
           
           
-          
 
 <!--
 **ru-fagundes/ru-fagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
