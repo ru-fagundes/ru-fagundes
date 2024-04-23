@@ -19,6 +19,8 @@
 | Cursos | Certificados |
 | ------ | ------------ |         
           
+-------------------------------------------------------------
+![Rubia Fagundes GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-fagundes&show_icons=true&theme=radical)
 
 <!--
 **ru-fagundes/ru-fagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
