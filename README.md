@@ -17,14 +17,17 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50px">
 </p>
 
-------------------------------------------------------------
+----------------------------------------------------------------------
 | Cursos | Certificados |
 | ------ | ------------ |         
           
--------------------------------------------------------------
-![Rubia Fagundes GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-fagundes&show_icons=true&theme=radical)
+----------------------------------------------------------------------
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru-fagundes&layout=compact&langs_count=7&theme=radical"/>
+<p align="center">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ru-fagundes&show_icons=true&theme=radical">
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru-fagundes&layout=compact&langs_count=7&theme=radical">
+<p/>
 <!--
 **ru-fagundes/ru-fagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
