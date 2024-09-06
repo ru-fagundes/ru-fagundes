@@ -1,11 +1,11 @@
-## Sejam bem vindos ao meu mundo!👋
+## Sejam bem vindos!👋
 
 ![Gif_Gatinha](https://media.tenor.com/T8KOdP8iV7oAAAAM/typing-computer.gif)
 ---------------------
 
 💁 Olá, me chamo Rubia Fagundes</br>
 🎓 Sou graduanda em Ciência De Dados </br>
-📫 [Acesse o meu Linkedin](www.linkedin.com/in/rubia-fagundes) </br>
+📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/rubiafagundes/) </br>
 ------------
 
 ## Minhas Tecnologias
