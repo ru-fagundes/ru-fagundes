@@ -1,9 +1,10 @@
 ## Olá! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 
-<h1 align="center"> 👩‍💻Eu sou a Rubia Fagundes<a></h1>
-<Br>
-<h1>Sobre mim </h1>
+###  Eu sou a Rubia Fagundes
 
+***
+
+### Sobre mim...
 
 - 🎓: Estudante de Ciência de Dados
 - 🌱: Atualmente estou aprendendo sobre IA Generativa e Automações (Agentes de IA)
