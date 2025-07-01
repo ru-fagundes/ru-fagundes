@@ -6,9 +6,9 @@
 
 ### Sobre mim...
 
-- 🎓: Estudante de Ciência de Dados
-- 🌱: Atualmente estou aprendendo sobre IA Generativa e Automações (Agentes de IA)
-- 💬: Pergunte-me sobre Análise de Dados, Visualização e Aprendizado de Máquinas.
+- 🎓: Bacharel em Tecnologia da Informação e finalizando a graduação em Ciência de Dados
+- 🌱: Atualmente estou fazendo um Bootcamp de Back End em Python e aprendendo sobre IA Generativa e Automações (Agentes de IA)
+- 💬: Pergunte-me sobre Análise de Dados e Negócios, Visualização e Aprendizado de Máquinas.
 <hr>
 <Br>
 <h1 align="center">Entre em contato! 📬</h1>
