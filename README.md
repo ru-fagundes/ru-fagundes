@@ -22,7 +22,7 @@ Sou apaixonada por transformar dados em soluções reais e apoiar decisões com 
 ### 🔍 [Análise de Ocorrências Internas – Projeto Seguradora](https://github.com/ru-fagundes/Projeto_Seguradora)
 > Projeto completo de análise, previsão e dashboard sobre o setor interno de uma seguradora de saúde.
 - 🧠 Classificação de ocorrências com Random Forest
-- 📊 Dashboards com Power BI
+- 📊 Dashboards com Python + HTML
 - 🔄 Dados simulados + API fictícia
 
 ### 📌 *Mais projetos em breve...*
