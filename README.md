@@ -137,15 +137,9 @@ Análise de dados do setor de seguros com modelagem preditiva de risco e visuali
 **Stack:** `Python` `Scikit-learn` `Pandas` `Streamlit`
 
 </td>
-</tr>
 
 <tr>
-<td colspan="2" valign="top">
 
-### 💉 Análise Epidemiológica - Meningite Sudeste
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ru-fagundes/PI-IV_Meningite_Sudeste)
-
-Projeto de análise de dados de saúde pública com visualizações geoespaciais e análise temporal de casos de meningite.
 
 </table>
 
@@ -193,13 +187,9 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 
 ---
 
-## 💭 Frase Inspiradora
-
 <div align="center">
 
-### *"Data is the new oil, but unlike oil, data is renewable, reusable, and becomes more valuable when shared."*
-
-**Transformando dados em valor desde 2020 🚀**
+### 💭 *"Dados são o novo petróleo, mas ao contrário do petróleo, os dados são renováveis, reutilizáveis e se tornam mais valiosos quando compartilhados."*
 
 </div>
 
@@ -208,8 +198,6 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 <div align="center">
 
 ### 💜 Obrigada pela visita!
-
-**"Cada linha de código é uma oportunidade de contar uma história com dados."**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,24,20&height=120&section=footer)
 
