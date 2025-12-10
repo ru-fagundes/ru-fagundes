@@ -166,13 +166,8 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ru-fagundes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ru-fagundes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ru-fagundes&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=F472B6&area=true&custom_title=Contribuição" alt="Contribution Graph"/>
 </p>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ru-fagundes&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=F472B6&area=true&custom_title=Contribuição%20nos%20Últimos%20Meses" alt="Contribution Graph"/>
-</div>
 
 ---
 
