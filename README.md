@@ -147,17 +147,13 @@ Análise de dados do setor de seguros com modelagem preditiva de risco e visuali
 
 Projeto de análise de dados de saúde pública com visualizações geoespaciais e análise temporal de casos de meningite.
 
-**✨ Destaques:**
-- 🗺️ Mapas Interativos
-- 📅 Análise Temporal
-- 📊 Dashboard de Saúde Pública
-- 🎯 Insights Epidemiológicos
-
-**Stack:** `Python` `Geopandas` `Plotly` `Seaborn`
-
-</td>
-</tr>
 </table>
+
+<div align="center">
+  
+**💡 Mais projetos e trabalhos em andamento disponíveis no meu [GitHub](https://github.com/ru-fagundes?tab=repositories)**
+
+</div>
 
 ---
 
@@ -166,7 +162,6 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ru-fagundes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ru-fagundes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ru-fagundes&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=F472B6&area=true&custom_title=Contribuição" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -204,6 +199,7 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 
 ### *"Data is the new oil, but unlike oil, data is renewable, reusable, and becomes more valuable when shared."*
 
+**Transformando dados em valor desde 2020 🚀**
 
 </div>
 
