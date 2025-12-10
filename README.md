@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,24,20&height=300&section=header&text=Rubia%20Fagundes&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Engineer&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,24,20&height=300&section=header&text=Rubia%20Fagundes&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Engineer&descAlignY=54&descAlign=55)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Transformando+Dados+em+Insights;Criando+Solu%C3%A7%C3%B5es+de+BI;Desenvolvendo+Pipelines+de+Dados;Contando+Hist%C3%B3rias+com+Dados)](https://git.io/typing-svg)
 
@@ -32,7 +32,7 @@ class RubiaFagundes:
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Stack Tecnológico
 
 ### 💻 Linguagens & Frameworks
 
@@ -163,15 +163,15 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ru-fagundes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru-fagundes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ru-fagundes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ru-fagundes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</p>
 
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ru-fagundes&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=F472B6&area=true&custom_title=Contribuição%20nos%20Últimos%20Meses" alt="Contribution Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ru-fagundes&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=F472B6&area=true&custom_title=Contribuição%20nos%20Últimos%20Meses" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -187,33 +187,13 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 
 ---
 
-## 🏆 Conquistas & Métricas
-
-| 🎯 Achievement | 📊 Metric | 🏅 Status |
-|:---------------|:----------|:----------|
-| **Projetos Concluídos** | 15+ | ✅ Active |
-| **Dashboards Desenvolvidos** | 30+ | 📈 Growing |
-| **Pipelines ETL Implementados** | 10+ | 🚀 Scaling |
-| **Datasets Analisados** | 50+ | 💪 Strong |
-| **Insights Gerados** | 100+ | 💡 Impactful |
-
----
-
-## 📊 Contribuições
-
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ru-fagundes&theme=github_dark" alt="Contribution Timeline"/>
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubiafagundes)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rubiafagundes_ds@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ru-fagundes)
 
 <br/>
 
@@ -229,16 +209,8 @@ Projeto de análise de dados de saúde pública com visualizações geoespaciais
 
 ### *"Data is the new oil, but unlike oil, data is renewable, reusable, and becomes more valuable when shared."*
 
-**Transformando dados em valor desde [2020] 🚀**
 
 </div>
-
----
-
-## 🐍 Contribuição Snake
-
-<!-- Este elemento requer configuração adicional via GitHub Actions -->
-<!-- Consulte as instruções no repositório para ativar a animação -->
 
 ---
 
